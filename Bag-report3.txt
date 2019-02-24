@@ -1,0 +1,11 @@
+3. Summary - Wrong names of the icon buttons "New Folder" and "Delete" on the Toolbar Panel.
+   
+   Discription: The name of the button "New Folder" is reversed with the name of the button "Delete" on the Toolbar Panel.
+   Steps to reptoduce:
+   1. Open the "File Manager".
+
+   Expacted result: The correct name of the icon buttons "New Folder" and "Delete".
+
+   Actual result: Names of icon buttons "New Folder" and "Delete" are reversed.
+
+   Severity: Medium

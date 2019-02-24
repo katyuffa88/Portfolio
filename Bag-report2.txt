@@ -1,0 +1,13 @@
+2. Summary - The check-box "Unselect all" isn't active in the main menu.
+   
+   Discription:
+   Steps to reptoduce:
+   1. Open the "File Manager".
+   2. Open the folder with content files.
+   3. Click on the check-box "Select all".
+   4. Check the check-box "Unselect all". 
+
+   Expacted result: The check-box "Unselect all" is active.
+   Actual result: The check-box "Unselect all" isn't active.
+   
+   Severity: Medium
